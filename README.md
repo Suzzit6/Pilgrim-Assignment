@@ -18,7 +18,7 @@ This Streamlit application allows users to filter sales data based on a threshol
 
 ## Screenshots
 
-![App Screenshot](![image](https://github.com/user-attachments/assets/38d7fd3e-1837-4525-ae74-17ab29d248c2))
+![image](https://github.com/user-attachments/assets/38d7fd3e-1837-4525-ae74-17ab29d248c2)
 
 ## Installation
 
