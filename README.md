@@ -2,7 +2,7 @@
 
 ## Live Demo
 
-Try the application here: [Sales Data Filter App](https://pilgrim-sales-filter.streamlit.app/)
+Try the application here: [Sales Data Filter App](https://pilgrim-assignment-kv7shvbemcgkrykpjvfxtf.streamlit.app/)
 
 ## Description
 
